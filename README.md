@@ -1,6 +1,6 @@
 Hi, I'm Jiya 👋🏼!
 
-I'm a third-year pursuing a Computer Science Specialist and Statistics Minor at the University of Toronto. I'm passionate about leveraging AI and software engineering to revolutionize healthcare and finance sectors.
+I'm a third-year pursuing a Computer Science Specialist and Statistics Minor at the University of Toronto. I'm passionate about leveraging AI and software engineering to revolutionize the healthcare and finance sectors.
 
 I've participated in several educational initiatives, such as Google CSSI, the MLH & Meta Production Engineering Fellowship, U of T's Technology Leadership Initiative, and the AI4Good Lab.
 

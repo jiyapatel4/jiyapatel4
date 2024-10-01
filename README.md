@@ -4,7 +4,7 @@ I'm a third-year pursuing a Computer Science Specialist and Statistics Minor at 
 
 I've participated in several educational initiatives, such as Google CSSI, the MLH & Meta Production Engineering Fellowship, U of T's Technology Leadership Initiative, and the AI4Good Lab.
 
-I'm seeking 2025 Summer Internships to kickstart my career, ignite my curiosity, and learn.
+I'm seeking 2025 Summer Internships to kickstart my career, ignite my curiosity, and learn <3
 
 <!---
 jiyapatel4/jiyapatel4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

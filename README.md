@@ -7,4 +7,4 @@ jiyapatel4/jiyapatel4 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<img width="404" height="202" alt="image" src="https://github.com/user-attachments/assets/8a36433f-e39d-429a-815e-df5e5e343d31" />
+<img width="93" height="87" alt="image" src="https://github.com/user-attachments/assets/c24eff11-0362-49ee-91d0-348739fb3bfc" />
